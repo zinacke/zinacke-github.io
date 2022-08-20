@@ -1,0 +1,83 @@
+html{
+    font-family: Open sans;
+}
+body{
+    background-color: #181a1d;
+}
+
+.navbar{
+    width: 1000px;
+    height: 30px;
+    border: 10px solid black;
+    font-size: large;
+    padding: 5px 150px;
+    text-align: center;
+    word-spacing: 200px;
+}
+
+.firstgame{
+    border: 2px solid black;
+    width: 390px;
+    height: 179.8px;
+    border-radius: 5px;
+    background-color: #242629;
+    
+}
+div.firstgame > .img1first{
+    border-radius: 5px;
+}
+.info{
+    padding: 5px 10px 10px 10px;
+    font-size: 1.15em;
+}
+.name{
+    padding-left: 15px;
+    padding-bottom: 10px;
+    margin: 0;
+    font-weight: bold;
+    line-height: 1.35em;
+}
+#imgeye{
+    vertical-align: -6px;
+}
+.img1first{
+    background-size: cover;
+    background-position: center center;
+}
+
+.category{
+    position: relative;
+    margin: 0 0 -11px 0;
+    min-height: 20px;
+    padding: 0 10px;
+    top: -12px;
+    display: flex;
+
+}
+
+.VN{
+    top: -12px;
+    border: 1px none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    background-color: red;
+    font-size: .75em;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 0px 5px;
+    
+}
+
+
+.navbarbackground{
+    background-color: black;
+}
+
+.title{
+    width: 300px;
+    border: 4px solid black;
+    border-radius: 15px;
+    font-size: 10px;
+    padding: 4px 150px;
+}
+
